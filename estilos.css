@@ -1,0 +1,42 @@
+* {
+    background-color:rgb(228, 132, 64);
+}
+
+h1 {
+    padding: 5%;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(10, 121, 121);
+    background-color: rgb(228, 132, 64);
+    margin-bottom: 0%;
+    background-color: aliceblue;
+}
+
+h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: rgb(10, 121, 121);
+    letter-spacing: 15px;
+    background-color: aliceblue;
+}
+
+h3 {
+    color:aliceblue;
+    font-size: 25px;
+    background-color: rgb(10, 121, 121);
+}
+
+p {
+    font-size: 22px;
+}
+
+#datosSnorlax {
+    padding: 10%;
+    display: flex;
+    float: left;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
